@@ -1,7 +1,7 @@
 # GitHub Foundations
 
 ## Purpose
-Learning Git and GitHub from first principles.
+Learning Git and GitHub from first principles..
 
 ## Concepts
 - Version control
