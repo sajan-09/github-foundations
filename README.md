@@ -11,3 +11,6 @@ Learning Git and GitHub from first principles..
 
 ## Progress Log
 - Day 1: Repository created
+
+## Git Mental Models
+- Git tracks snapshots, not diffs
