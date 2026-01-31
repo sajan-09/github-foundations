@@ -14,3 +14,4 @@ Learning Git and GitHub from first principles..
 
 ## Git Mental Models
 - Git tracks snapshots, not diffs
+- Experiment: first commit on experiment-history
